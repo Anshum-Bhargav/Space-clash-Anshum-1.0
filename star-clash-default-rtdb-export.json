@@ -1,0 +1,15 @@
+{
+  "gameState" : 0,
+  "playerCount" : 1,
+  "players" : {
+    "player1" : {
+      "name" : "A"
+    },
+    "player2" : {
+      "name" : "b"
+    },
+    "player3" : {
+      "name" : "a"
+    }
+  }
+}
